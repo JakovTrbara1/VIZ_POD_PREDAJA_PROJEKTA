@@ -2,8 +2,11 @@
 
 # Upute za postavljanje:
 1.	Klonirati ili preuzeti repozitorij.
-2.	Osigurati da svi .json podaci budu unutar /data direktorija.
-3.	Desnim klikom otvoriti index.html u pregledniku koristeći LiveServer u VS Code.
+2.	Raspakirati zip datoteku
+3.	Otvoriti folder u VS Code
+4.	Osigurati da svi .json podaci budu unutar /data direktorija.
+5.	Desnim klikom otvoriti index.html u pregledniku koristeći LiveServer u VS Code.
+
 
 # Upute za korištenje:
 
